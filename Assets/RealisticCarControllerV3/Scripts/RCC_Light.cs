@@ -82,7 +82,7 @@ public class RCC_Light : RCC_Core {
             if (_light.flare != null)
                 _light.flare = null;
 
-            lensFlare.flare = flare;
+            //lensFlare.flare = UnityEngine.Flare;
 
         }
 
