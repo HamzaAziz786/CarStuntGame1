@@ -162,7 +162,7 @@ public class RCC_CarSelectionExample : MonoBehaviour {
     public void OpenScene() {
 
         //	Loads next scene.
-        SceneManager.LoadScene(nextScene);
+        //SceneManager.LoadScene(nextScene);
 
     }
 
