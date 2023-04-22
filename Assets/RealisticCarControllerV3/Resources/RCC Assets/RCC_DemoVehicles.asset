@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: RCC_DemoVehicles
   m_EditorClassIdentifier: 
   vehicles:
-  - {fileID: 8604693750619759251, guid: b6c8a12b979de084c9fcb410d00706b5, type: 3}
+  - {fileID: 1596370247908628046, guid: ca8c286b2b3562d45af4e469df9eff43, type: 3}

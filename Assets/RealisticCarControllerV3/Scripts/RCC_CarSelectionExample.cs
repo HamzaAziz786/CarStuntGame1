@@ -163,7 +163,6 @@ public class RCC_CarSelectionExample : MonoBehaviour {
 
         //	Loads next scene.
         //SceneManager.LoadScene(nextScene);
-        //05200104765443
 
     }
 
