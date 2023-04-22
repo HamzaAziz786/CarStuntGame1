@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - 
-  - 
+  - objectsToHide
   - RCC
   - RCC_WheelCollider
   - RCC_DetachablePart
